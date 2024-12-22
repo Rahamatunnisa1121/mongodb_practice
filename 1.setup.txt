@@ -1,0 +1,12 @@
+test>show dbs
+//to list all the databases available on the connected MongoDB server
+
+test>use employees
+//to use employees database
+
+test>db.collection.find().pretty()
+//Formats the output of the documents in an indented and human-readable JSON format.
+
+//database
+//collection
+//documents
